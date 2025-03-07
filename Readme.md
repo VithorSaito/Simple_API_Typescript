@@ -7,8 +7,6 @@ O principal objetivo do desenvolvimento foi a prática de funcionalidades básic
 
 ## Tecnologias Utilizadas
 
-Liste as tecnologias e frameworks utilizados no projeto, por exemplo:
-
 - [Node.js](https://nodejs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
